@@ -160,6 +160,6 @@
    - *Java Concurrency in Practice* (Brian Goetz)
 
 4. **Comunidades**
-   - Nosso discord: discord.gg/msjsG55MGn
+   - [Nosso discord:](https:discord.gg/msjsG55MGn)
    - guj.com.br
    - Reddit: r/java
