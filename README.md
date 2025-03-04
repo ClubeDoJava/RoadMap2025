@@ -7,7 +7,7 @@
    - Estruturas de controle (if/else, switch, loops)
    - Funções/métodos
    - Manipulação de strings
-2. **Orientação a Objetos (POO)**
+2. **Orientação a Objetos (OOP)**
    - Classes e objetos
    - Encapsulamento, herança e polimorfismo
    - Abstração
