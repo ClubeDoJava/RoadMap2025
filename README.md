@@ -135,6 +135,7 @@
 1. **Reactive Programming**
    - Project Reactor
    - RxJava
+   - Projeto Loom
 
 2. **Módulos e JPMS**
    - Modularização no Java (desde o Java 9)
@@ -159,5 +160,6 @@
    - *Java Concurrency in Practice* (Brian Goetz)
 
 4. **Comunidades**
-   - Nosso discord: discord.gg/msjsG55MGn 
+   - Nosso discord: discord.gg/msjsG55MGn
+   - guj.com.br
    - Reddit: r/java
