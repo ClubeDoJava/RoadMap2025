@@ -158,6 +158,10 @@
 2. **Livros**
    - *Effective Java* (Joshua Bloch)
    - *Java Concurrency in Practice* (Brian Goetz)
+   - Java como programar (Deitel)
+   - Use a cabeça Java 3° edição ( Oreilly )
+   - Ocp Oracle Certified Professional Java Se 17 Developer Study Guide: Exam 1z0-829
+   - Ocp Oracle Certified Professional Java Se 17 Developer Practice Tests: Exam 1z0-829
 
 4. **Comunidades**
    - [Nosso discord:](https:discord.gg/msjsG55MGn)
