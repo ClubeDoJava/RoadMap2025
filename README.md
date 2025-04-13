@@ -6,7 +6,7 @@
   - Estruturas de controle (if/else, switch, loops)
   - Funções/métodos
   - Manipulação de strings
-  - *Projeto prático*: Calculadora ou gerenciador de tarefas CLI
+  - *Projeto prático*:  gerenciador de tarefas CLI
 - Orientação a Objetos (OOP)
   - Classes e objetos
   - Encapsulamento, herança e polimorfismo
