@@ -145,6 +145,9 @@
 - Documentação oficial
   - [Documentação do Java](https://docs.oracle.com/en/java/)
   - [Spring Docs](https://spring.io/docs)
+ 
+-  [Java Playground](https://dev.java/)
+
 - Livros
   - *Effective Java* (Joshua Bloch)
   - *Java Concurrency in Practice* (Brian Goetz)
